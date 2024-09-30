@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [shubhamportfolio.online](https://www.shubhamportfolio.online/)
 
-- 💬 Ask me about **Full Stack Web3 Developer skilled in JavaScript, TypeScript, Next.js, and the MERN stack, with experience in Web3, Ethereum, Solidity, and open-source contributions.**
+- 💬 Ask me about **MERN Full Stack | TypeScript | Next.js | DevOps | Open Source.**
 
 - 📫 How to reach me **xshuubhampatil@gmail.com**
 
