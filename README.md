@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhampatilsp&label=Profile%20views&color=0e75b6&style=flat" alt="shubhampatilsp" /> </p>
 
-<p align="left"> <a href="https://twitter.com/x__shubham" target="blank"><img src="https://img.shields.io/twitter/follow/x_shuubhamm?logo=twitter&style=for-the-badge" alt="x_shuubhamm" /></a> </p>
+<p align="left"> <a href="https://twitter.com/x__shubham" target="blank"><img src="https://img.shields.io/twitter/follow/x__shubham?logo=twitter&style=for-the-badge" alt="x__shubham" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [shubhamportfolio.online](https://www.shubhamportfolio.online/)
 
