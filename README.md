@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/x__shubham" target="blank"><img src="https://img.shields.io/twitter/follow/xshubhaam?logo=twitter&style=for-the-badge" alt="x__shubham" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [shubhamportfolio.online](https://www.shubhampatil.fun/)
+- 👨‍💻 All of my projects are available at [shubhampatil.fun](https://www.shubhampatil.fun/)
 
 - 💬 Ask me about **MERN Full Stack | TypeScript | Next.js | DevOps | Open Source.**
 
