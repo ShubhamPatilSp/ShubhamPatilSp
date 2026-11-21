@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/xshubhaam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xshubhaam" height="30" width="40" /></a>
+
 generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shubham-patil-8494982b0" height="30" width="40" /></a>
 </p>
 
